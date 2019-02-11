@@ -1,5 +1,8 @@
 package com.jvm.classloader;
 
+/**
+ * 打印所有类加载器
+ */
 public class ClassLoaderTest01 {
 
 	public static void main(String[] args) {
